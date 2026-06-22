@@ -1,0 +1,24 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Built outputs
+**/build/
+app/release/
+
+# Keystore
+*.jks
+*.keystore
+
+# Gradle wrapper jar — regenerated on first build (see README)
+gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin
+*.hprof
